@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "wemos_s2_mini")(type "KiCad")(uri "${KICAD7_3RD_PARTY}/wemos_s2_mini.kicad_sym")(options "")(descr ""))
+)
