@@ -4,6 +4,6 @@ This is a rat-ratgdo carrier board for a [Wemos S2 mini](https://www.wemos.cc/en
 ![assembled](assembled.jpg)
 _Assembled board with S2 mini and BME280 module mounted_
 
-[Get boards from OSHPark]()
+[Get boards from OSHPark](https://oshpark.com/shared_projects/v4UJMWZY)
 
-[ESPHome YAML]()
+[ESPHome YAML](garage-door.yaml)
